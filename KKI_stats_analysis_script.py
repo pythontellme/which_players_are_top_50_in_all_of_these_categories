@@ -5,7 +5,6 @@ into dataframe and cleaning data
 
 import pandas as pd
 import KKI_stats_module as ksm
-import matplotlib.pyplot as plt 
 
 # Dataframe settings
 pd.set_option('display.max_rows', 200)
